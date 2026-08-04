@@ -1,12 +1,20 @@
 # Caesar Cipher
 
 ## Description
-This project encrypts text using the Caesar Cipher algorithm.
+This is a simple Python program that encrypts and decrypts text using the Caesar Cipher technique.
 
 ## Features
-- Encrypts messages
+- Encrypts a message
+- Decrypts a message
 - Uses a shift value of 3
-- Written in Python
+
+## Technologies Used
+- Python 3
+
+## How to Run
+1. Open terminal.
+2. Run:
+   python main.py
 
 ## Author
 Maryam Malik
